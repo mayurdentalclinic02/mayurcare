@@ -20,14 +20,15 @@ function Location() {
 
           <div className="map-box">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3789.506306804074!2d72.9296748!3d19.1132898!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c796c4647d89%3A0xef9594add67c56fc!2sMayur%20Dental%20Care!5e1!3m2!1sen!2sin!4v1788355963213!5m2!1sen!2sin"
-              width="100%"
-              height="100%"
-              style={{ border: 0 }}
-              allowFullScreen
-              loading="lazy"
-              title="Map showing Mayur Dental Care in Vikhroli East, Mumbai"
-            ></iframe>
+  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3789.506306804074!2d72.9296748!3d19.1132898!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c796c4647d89%3A0xef9594add67c56fc!2sMayur%20Dental%20Care!5e1!3m2!1sen!2sin!4v1788355963213!5m2!1sen!2sin"
+  width="100%"
+  height="100%"
+  style={{ border: 0 }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+  title="Map showing Mayur Dental Care in Vikhroli East, Mumbai"
+></iframe>
           </div>
 
 
